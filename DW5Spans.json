@@ -1,0 +1,124 @@
+{
+    "spans": {
+        "Px9o": {
+            "upper": {
+                "segmentId": "DW5DTraxS_7esv",
+                "distance": 1,
+                "end": "End"
+            },
+            "lower": {
+                "segmentId": "DW5DTraxS_7esv",
+                "distance": 1,
+                "end": "Start"
+            }
+        },
+        "Pwia": {
+            "upper": {
+                "segmentId": "Si69",
+                "distance": 58.7285919,
+                "end": "End"
+            },
+            "lower": {
+                "segmentId": "Si69",
+                "distance": 178.74173,
+                "end": "Start"
+            }
+        },
+        "Pumb": {
+            "upper": {
+                "segmentId": "S63c",
+                "distance": 89.13455,
+                "end": "End"
+            },
+            "lower": {
+                "segmentId": "S63c",
+                "distance": 329.8973,
+                "end": "Start"
+            }
+        },
+        "Pbhv": {
+            "upper": {
+                "segmentId": "DW5_DupTrx_ElaStn",
+                "distance": 1,
+                "end": "End"
+            },
+            "lower": {
+                "segmentId": "DW5_DupTrx_ElaStn",
+                "distance": 1,
+                "end": "Start"
+            }
+        },
+        "P4jr": {
+            "upper": {
+                "segmentId": "W5DTraxS_2ipn",
+                "distance": 2,
+                "end": "End"
+            },
+            "lower": {
+                "segmentId": "W5DTraxS_2ipn",
+                "distance": 0,
+                "end": "Start"
+            }
+        },
+        "Pbhw": {
+            "upper": {
+                "segmentId": "DW5DualTrx_S_oo1a",
+                "distance": 0,
+                "end": "End"
+            },
+            "lower": {
+                "segmentId": "DW5DualTrx_S_oo1a",
+                "distance": 0,
+                "end": "Start"
+            }
+        },
+        "Pwad": {
+            "upper": {
+                "segmentId": "DW5_duptraxS_331h2",
+                "distance": 10,
+                "end": "End"
+            },
+            "lower": {
+                "segmentId": "DW5_duptraxS_331h2",
+                "distance": 30,
+                "end": "Start"
+            }
+        },
+        "Pnct": {
+            "upper": {
+                "segmentId": "Ss85",
+                "distance": 11.0677052,
+                "end": "End"
+            },
+            "lower": {
+                "segmentId": "DW5DTraxS_woz3",
+                "distance": 15.5183554,
+                "end": "Start"
+            }
+        },
+        "Px7v": {
+            "upper": {
+                "segmentId": "DW5DualTrx_S_ga1z",
+                "distance": 0,
+                "end": "Start"
+            },
+            "lower": {
+                "segmentId": "DW5DualTrx_S_ga1z",
+                "distance": 1,
+                "end": "End"
+            }
+        },
+        "Pacq": {
+            "upper": {
+                "segmentId": "DW5DualTrx_S_8dku",
+                "distance": 1,
+                "end": "End"
+            },
+            "lower": {
+                "segmentId": "DW5DualTrx_S_8dku",
+                "distance": 1,
+                "end": "Start"
+            }
+        }
+    }
+}

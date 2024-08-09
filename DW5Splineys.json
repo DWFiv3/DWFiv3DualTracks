@@ -1,0 +1,1192 @@
+{
+  "splineys": {
+    "Telegraph_Poles": {
+      "handler": "AlinasMapMod.TelegraphPoleMover",
+      "polesToMove": [
+        159,
+        161,
+        163,
+        165,
+        167,
+        169,
+        171,
+        173,
+        175,
+        177,
+        179,
+        181,
+        183,
+        185,
+        187,
+        189,
+        191,
+        193,
+        195,
+        197,
+        205,
+        207,
+        209,
+        211,
+        213,
+        215,
+        217,
+        219,
+        221,
+        809,
+        793,
+        791,
+        789,
+        799,
+        811,
+        813,
+        815,
+        737,
+        397,
+        395,
+        393,
+        391,
+        389,
+        387,
+        385,
+        383,
+        645,
+        647,
+        649,
+        651,
+        653,
+        655,
+        657,
+        659,
+        661,
+        663,
+        665,
+        667,
+        669,
+        671,
+        673,
+        675,
+        677,
+        679,
+        681,
+        683,
+        685,
+        687,
+        689,
+        691,
+        693,
+        695,
+        697,
+        699,
+        701,
+        703,
+        705,
+        713,
+        715
+      ],
+      "poleMovement": [
+        [0, 0, -3],
+        [0, 1, -6],
+        [0, 1.2, -6],
+        [0, 0, -6],
+        [-1, 0, -6],
+        [-1, 0, -6],
+        [-1, 0, -6],
+        [-1, 0, -6],
+        [-1, 1.5, -6],
+        [-1, 1, -6],
+        [-1, 0, -6],
+        [-1, 0.5, -6],
+        [-1, 0, -6],
+        [-2, 2, -8],
+        [-2, 2, -8],
+        [-2, 1.2, -8],
+        [-2, 1.2, -8],
+        [-2, 1.2, -8],
+        [0, 1, -12],
+        [0, 3, -12],
+        [0, 4, 0],
+        [-10, 8.5, 15],
+        [-10, 4, 15],
+        [-10, 4, 15],
+        [-10, 4, 15],
+        [-10, 4, 15],
+        [-10, 4, 15],
+        [-10, 8, 15],
+        [0, 6, -9],
+        [0, -1, -3.5],
+        [3, 2, -4.5],
+        [5, 2, -4.5],
+        [3, 2, -3.5],
+        [0, 3, 0],
+        [0, 0, -3],
+        [0, 0, -4],
+        [0, 0, -4],
+        [0, 0, -3],
+        [0, 0, 8],
+        [0, 0, 10],
+        [0, 0, 15],
+        [0, 0, 15],
+        [5, 0, 13],
+        [5, 0, 10],
+        [5, 0, 10],
+        [5, 0, 10],
+        [0, 0, 5],
+        [0, 0, 11],
+        [0, 0, 21],
+        [-5, 0, 15],
+        [-5, 0, 15],
+        [-5, 0, 15],
+        [-5, 0, 15],
+        [-5, 0, 15],
+        [-5, 0, 15],
+        [-5, 0, 22],
+        [-5, 0, 22],
+        [-5, 0, 22],
+        [-7, 2, 15],
+        [-7, 5, 15],
+        [17, 18, 30],
+        [17, 25, 30],
+        [17, 15, 30],
+        [17, 0, 35],
+        [17, -15, 35],
+        [17, -10, 35],
+        [30, 18, 0],
+        [40, 0, -10],
+        [35, 0, -10],
+        [35, 0, -10],
+        [35, 0, -10],
+        [35, 0, -10],
+        [35, 0, -10],
+        [30, 0, -10],
+        [20, 0, -10],
+        [8, 0, -2],
+        [5, 0, -1],
+        [0, 5, 0],
+        [0, 5, 0]
+      ]
+    },
+    "Dyls_Bridge_1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": 22644.14,
+            "y": 604.40,
+            "z": -1172.15
+          },
+          "rotation": {
+            "x": 359.53,
+            "y": 42.28,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 22657.78,
+            "y": 604.50,
+            "z": -1156.84
+          },
+          "rotation": {
+            "x": 359.54,
+            "y": 42.27,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Cowee_Bridge_1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": 20653.03,
+            "y": 601.60,
+            "z": -785.98
+          },
+          "rotation": {
+            "x": 0,
+            "y": 143.60,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 20587.99,
+            "y": 601.55,
+            "z": -725.77
+          },
+          "rotation": {
+            "x": 0,
+            "y": 115.30,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Ela_Bridge_1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": 8656.38,
+            "y": 546.65,
+            "z": 7345.79
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 25.64,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 8621.00,
+            "y": 546.65,
+            "z": 7132.43
+          },
+          "rotation": {
+            "x": 359.66,
+            "y": 1.45,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Bryson_Bridge_1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": 4228.75,
+            "y": 530.10,
+            "z": 5021.50
+          },
+          "rotation": {
+            "x": 358.80,
+            "y": 209.85,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 4169.82,
+            "y": 531.20,
+            "z": 4952.02
+          },
+          "rotation": {
+            "x": 359.30,
+            "y": 228.53,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Bryson_Bridge_2": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": 3427.77,
+            "y": 530.95,
+            "z": 4358.21
+          },
+          "rotation": {
+            "x": 0,
+            "y": 54.68,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 3332.51,
+            "y": 530.95,
+            "z": 4290.56
+          },
+          "rotation": {
+            "x": 359.57,
+            "y": 54.68,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Bryson_Bridge_3": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": 2097.95,
+            "y": 548.23,
+            "z": 4724.68
+          },
+          "rotation": {
+            "x": 359.45,
+            "y": 240.97,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 2162.54,
+            "y": 547.50,
+            "z": 4742.84
+          },
+          "rotation": {
+            "x": 359.57,
+            "y": 266.53,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Bryson_Bridge_4": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": 3937.51,
+            "y": 536.20,
+            "z": 4676.30
+          },
+          "rotation": {
+            "x": 359.20,
+            "y": 207.13,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 3696.84,
+            "y": 546.19,
+            "z": 4135.32
+          },
+          "rotation": {
+            "x": 1.48,
+            "y": 20.92,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+     "Bryson_Bridge_5": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": 3570.72,
+            "y": 553.04,
+            "z": 3902.72
+          },
+          "rotation": {
+            "x": 358.70,
+            "y": 219.13,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 3521.16,
+            "y": 555.29,
+            "z": 3848.21
+          },
+          "rotation": {
+            "x": 1.25,
+            "y": 44.66,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+"Hemingway_Bridge_1": {
+    "meshBuilder": "StrangeCustoms.AutoTrestle",
+    "points": [
+      {
+        "position": {
+          "x": 2944.05,
+          "y": 572.10,
+          "z": 3441.03
+        },
+        "rotation": {
+          "x": 359.00,
+          "y": 206.53,
+          "z": 0
+        }
+      },
+      {
+        "position": {
+          "x": 2844.02,
+          "y": 577.90,
+          "z": 3179.90
+        },
+        "rotation": {
+          "x": 359,
+          "y": 199.53,
+          "z": 0
+        }
+      }
+    ],
+    "headStyle": "block",
+    "tailStyle": "bent"
+  },
+    "Brooks_Bridge_1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": -2181.89,
+            "y": 554.89,
+            "z": 894.07
+          },
+          "rotation": {
+            "x": 0.40,
+            "y": 318.98,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": -2223.53,
+            "y": 554.30,
+            "z": 983.21
+          },
+          "rotation": {
+            "x": 0.40,
+            "y": 347.67,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Brooks_Bridge_2": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": -2071.70,
+            "y": 555.57,
+            "z": 837.10
+          },
+          "rotation": {
+            "x": 0,
+            "y": 95.98,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": -2092.07,
+            "y": 555.56,
+            "z": 842.22
+          },
+          "rotation": {
+            "x": 0,
+            "y": 287.64,
+            "z": 359.81
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Almond_Bridge_1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": -6150.81,
+            "y": 530.05,
+            "z": 718.83
+          },
+          "rotation": {
+            "x": 359.83,
+            "y": 204.62,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": -6253.63,
+            "y": 530.11,
+            "z": 494.47
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 204.62,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Andrews_Bridge_1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": -27509.32,
+            "y": 556.87,
+            "z": -20329.94
+          },
+          "rotation": {
+            "x": 0.62,
+            "y": 260.95,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": -27534.0,
+            "y": 556.55,
+            "z": -20331.51
+          },
+          "rotation": {
+            "x": 0.62,
+            "y": 270.95,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Andrews_Bridge_2": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": -27047.05,
+            "y": 567.04,
+            "z": -19826.61
+          },
+          "rotation": {
+            "x": 0.62,
+            "y": 200.27,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": -27057.08,
+            "y": 566.68,
+            "z": -19853.80
+          },
+          "rotation": {
+            "x": 1.12,
+            "y": 200.27,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Andrews_Bridge_3": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": -26552.83,
+            "y": 573.90,
+            "z": -19556.20
+          },
+          "rotation": {
+            "x": 0.62,
+            "y": 240.47,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": -26580.82,
+            "y": 573.35,
+            "z": -19568.47
+          },
+          "rotation": {
+            "x": 0.62,
+            "y": 249.97,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Andrews_Bridge_4": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": -26970.79,
+            "y": 569.26,
+            "z": -20032.30
+          },
+          "rotation": {
+            "x": 1.13,
+            "y": 170.03,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": -26977.36,
+            "y": 568.69,
+            "z": -20068.61
+          },
+          "rotation": {
+            "x": 1.13,
+            "y": 170.03,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "BIG Alarka Exit Bridge ": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": 208.74,
+            "y": 573.85,
+            "z": 630.66
+          },
+          "rotation": {
+            "x": 359.46,
+            "y": 103.49,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": -135.37,
+            "y": 570.95,
+            "z": 676.60
+          },
+          "rotation": {
+            "x": 359.16,
+            "y": 85.99,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Alarka Bridge 0": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": 3816.88,
+            "y": 641.92,
+            "z": -2806.34
+          },
+          "rotation": {
+            "x": 0.20,
+            "y": 306.47,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 3540.26,
+            "y": 638.30,
+            "z": -2687.89
+          },
+          "rotation": {
+            "x": 0.70,
+            "y": 282.77,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Cochran Bridge 1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": 1836.67,
+            "y": 591.68,
+            "z": -93.93
+          },
+          "rotation": {
+            "x": 359.46,
+            "y": 114.99,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 1891.05,
+            "y": 592.25,
+            "z": -119.27
+          },
+          "rotation": {
+            "x": 359.46,
+            "y": 114.99,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Cochran Bridge 2": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": 1831.68,
+            "y": 591.58,
+            "z": -44.85
+          },
+          "rotation": {
+            "x": 359.46,
+            "y": 128.82,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 1872.19,
+            "y": 591.88,
+            "z": -77.43
+          },
+          "rotation": {
+            "x": 359.46,
+            "y": 128.82,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Cochran Bridge 3": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": 2311.33,
+            "y": 598.44,
+            "z": -576.36
+          },
+          "rotation": {
+            "x": 0.66,
+            "y": 332.97,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 2343.14,
+            "y": 598.95,
+            "z": -638.71
+          },
+          "rotation": {
+            "x": 359.43,
+            "y": 153.33,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Cochran Bridge 4": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": 2325.35,
+            "y": 606.70,
+            "z": -1067.18
+          },
+          "rotation": {
+            "x": 359.13,
+            "y": 203.32,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 2283.13,
+            "y": 607.51,
+            "z": -1134.17
+          },
+          "rotation": {
+            "x": 0.66,
+            "y": 47.97,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Alarka Bridge 1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": 2172.39,
+            "y": 610.50,
+            "z": -1361.71
+          },
+          "rotation": {
+            "x": 0.66,
+            "y": 4.47,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 2169.47,
+            "y": 610.92,
+            "z": -1398.10
+          },
+          "rotation": {
+            "x": 0.66,
+            "y": 3.97,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Alarka Bridge 2": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": 3540.26,
+            "y": 638.35,
+            "z": -2687.89
+          },
+          "rotation": {
+            "x": 0.70,
+            "y": 282.77,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 3816.88,
+            "y": 641.95,
+            "z": -2806.34
+          },
+          "rotation": {
+            "x": 0.20,
+            "y": 306.47,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Alarka Jct Bridge 1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": 1693.71,
+            "y": 591.00,
+            "z": 252.66
+          },
+          "rotation": {
+            "x": 0,
+            "y": 137.21,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 1756.82,
+            "y": 590.98,
+            "z": 185.30
+          },
+          "rotation": {
+            "x": 0,
+            "y": 137.21,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "South Graham Bridge": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": -18287.44,
+            "y": 768.77,
+            "z": -14109.93
+          },
+          "rotation": {
+            "x": 357.40,
+            "y": 232.17,
+            "z": 0.73
+          }
+        },
+        {
+          "position": {
+            "x": -18335.82,
+            "y": 772.50,
+            "z": -14173.11
+          },
+          "rotation": {
+            "x": 357.40,
+            "y": 200.75,
+            "z": 0.19
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Hewitt Bridge": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": -13358.60,
+            "y": 573.14,
+            "z": -7871.31
+          },
+          "rotation": {
+            "x": 359.63,
+            "y": 231.70,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": -13479.10,
+            "y": 574.06,
+            "z": -7981.83
+          },
+          "rotation": {
+            "x": 359.65,
+            "y": 222.70,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "South Nan Bridge 1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": -16694.64,
+            "y": 637.08,
+            "z": -11436.47
+          },
+          "rotation": {
+            "x": 2.21,
+            "y": 48.60,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": -16772.24,
+            "y": 641.08,
+            "z": -11504.86
+          },
+          "rotation": {
+            "x": 2.11,
+            "y": 48.60,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Rhodo Bridge 1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": -22688.39,
+            "y": 659.02,
+            "z": -17626.27
+          },
+          "rotation": {
+            "x": 0.66,
+            "y": 219.60,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": -22702.73,
+            "y": 658.65,
+            "z": -17643.60
+          },
+          "rotation": {
+            "x": 0.66,
+            "y": 219.60,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "South Rhodo Bridge 1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": -24045.51,
+            "y": 623.58,
+            "z": -18406.67
+          },
+          "rotation": {
+            "x": 2.11,
+            "y": 273.38,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": -24119.14,
+            "y": 620.75,
+            "z": -18398.76
+          },
+          "rotation": {
+            "x": 1.11,
+            "y": 279.38,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "South Rhodo Bridge 2": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": -24426.82,
+            "y": 614.50,
+            "z": -18362.87
+          },
+          "rotation": {
+            "x": 1.11,
+            "y": 270.78,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": -24477.45,
+            "y": 613.47,
+            "z": -18362.27
+          },
+          "rotation": {
+            "x": 1.11,
+            "y": 270.58,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "South Rhodo Bridge 3": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": -24744.54,
+            "y": 604.90,
+            "z": -18524.56
+          },
+          "rotation": {
+            "x": 1.50,
+            "y": 240.42,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": -24821.93,
+            "y": 602.27,
+            "z": -18568.44
+          },
+          "rotation": {
+            "x": 1.55,
+            "y": 240.03,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "South Rhodo Bridge 4": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {
+            "x": -24856.18,
+            "y": 601.32,
+            "z": -18587.86
+          },
+          "rotation": {
+            "x": 1.55,
+            "y": 240.42,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": -24902.27,
+            "y": 599.90,
+            "z": -18614.00
+          },
+          "rotation": {
+            "x": 1.02,
+            "y": 240.42,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    }
+  }
+}
