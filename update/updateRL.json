@@ -4,7 +4,7 @@
         "changelog": [
             {
                 "version": "202408.10.1505",
-                "desc": "- Fixed Whittier and Nantahala stations not working"
+                "desc": "- Fixed Whittier and Nantahala stations not working correctly"
             },    
             {
                 "version": "202408.05.1922",
