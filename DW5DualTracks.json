@@ -2341,7 +2341,6 @@
         },
         "flipSwitchStand": false
       },
-      "NDWTrack_udjt": null,
       "Nwsdd9ga6": {
         "position": {
           "x": -6131.015,
@@ -6710,7 +6709,6 @@
         },
         "flipSwitchStand": true
       },
-      "DW5_duptraxN_pg2r": null,
       "DW5DualTrx_N_64fo": {
         "position": {
           "x": -23097.6113,
@@ -9987,7 +9985,6 @@
         },
         "flipSwitchStand": false
       },
-      "DW5DualTrx_N_hcol": null,
       "DW5DualTrx_N_gi0s": {
         "position": {
           "x": -18976.9668,
@@ -11211,11 +11208,6 @@
         },
         "flipSwitchStand": true
       },
-      "W5DualTrxN_krxg": null,
-      "W5DualTrxN_qg3q": null,
-      "W5DualTrxN_8beh": null,
-      "W5DualTrxN_jk8y": null,
-      "W5DualTrxN_5gk9": null,
       "NDW5SMR1_y5vs": {
         "position": {
           "x": 12091.4082,
@@ -11458,6 +11450,7 @@
       "Sz5hy": null,
       "Skbi": null,
       "Swvo6": null,
+      "Sr1or": null,
       "DWFiv3_Required_NULL_Segments_DO-NOT-DELETE-ABOVE": null,
       "SSylvDils_Bridge48oq": {
         "style": "Bridge",
@@ -15014,7 +15007,6 @@
         "speedLimit": 0,
         "groupId": ""
       },
-      "DW5_duptraxS_6wac": null,
       "DW5DualTrx_S_eeuo": {
         "style": "Standard",
         "trackClass": "Mainline",
@@ -18183,8 +18175,6 @@
         "speedLimit": 0,
         "groupId": ""
       },
-      "DW5DualTrx_S_qhwy": null,
-      "DW5DualTrx_S_9pk5": null,
       "DW5DualTrx_S_tvgg": {
         "style": "Standard",
         "trackClass": "Branch",
@@ -19040,7 +19030,6 @@
         "speedLimit": 20,
         "groupId": ""
       },
-      "W5DTraxS_k8sg": null,
       "W5DTraxS_pvmb": {
         "style": "Standard",
         "trackClass": "Branch",
@@ -19050,7 +19039,6 @@
         "speedLimit": 0,
         "groupId": ""
       },
-      "W5DTraxS_htzd": null,
       "W5DTraxS_dfid": {
         "style": "Standard",
         "trackClass": "Branch",
@@ -19357,7 +19345,6 @@
         "speedLimit": 0,
         "groupId": ""
       },
-      "Sr1or": null,
       "W5DualTrxS_4761": {
         "style": "Standard",
         "trackClass": "Branch",
@@ -19367,13 +19354,7 @@
         "speedLimit": 0,
         "groupId": ""
       },
-      "W5DualTrxS_8cfd": null,
-      "W5DualTrxS_723x": null,
-      "W5DualTrxS_dgsc": null,
-      "W5DualTrxS_6jti": null,
-      "W5DualTrxS_wihv": null,
-      "W5DualTrxS_3exr": null,
-      "SCustom_43w6": {
+      "W5DualTrxS_43w6": {
         "style": "Standard",
         "trackClass": "Branch",
         "startId": "Njet",

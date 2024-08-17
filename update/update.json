@@ -1,7 +1,11 @@
 {
     "DW5.DualTracksMod": {
-        "version": "202408.10.1505",
+        "version": "202408.17.1146",
         "changelog": [
+            {
+                "version": "202408.17.1146",
+                "desc": "- Fixed issue with Bryson west lights, few other tweaks"
+            },    
             {
                 "version": "202408.10.1505",
                 "desc": "- Fixed Whittier and Nantahala stations not working correctly"
