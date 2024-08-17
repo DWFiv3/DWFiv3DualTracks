@@ -1,7 +1,11 @@
 {
     "DW5.DualTracksMod": {
-        "version": "202408.17.1146",
+        "version": "202408.17.1256",
         "changelog": [
+            {
+                "version": "202408.17.1256",
+                "desc": "- Added optional Bryson Loop back towards Ela  ($1 milestone unlock)"
+            },  
             {
                 "version": "202408.17.1146",
                 "desc": "- Fixed issue with Bryson west lights, few other tweaks"
