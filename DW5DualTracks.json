@@ -11220,6 +11220,59 @@
           "z": 359.93222
         },
         "flipSwitchStand": true
+      },
+      "NCustom_rfri": null,
+      "NDW5DTBryLoop_mzrh": {
+        "position": {
+          "x": 4897.04736,
+          "y": 529.0,
+          "z": 5559.052
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 238.500015,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5DTBryLoop_8u83": {
+        "position": {
+          "x": 4249.464,
+          "y": 529.0,
+          "z": 5161.812
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 160.527115,
+          "z": 0.0
+        },
+        "flipSwitchStand": true
+      },
+      "NDW5DTBryLoop_2e36": {
+        "position": {
+          "x": 4261.77441,
+          "y": 529.0,
+          "z": 5136.183
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 145.527115,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDW5DTBryLoop_29bq": {
+        "position": {
+          "x": 4546.10547,
+          "y": 529.0,
+          "z": 5191.11
+        },
+        "rotation": {
+          "x": -2.66804268E-08,
+          "y": 41.4981766,
+          "z": 1.00000012
+        },
+        "flipSwitchStand": false
       }
     },
     "segments": {
@@ -16654,15 +16707,7 @@
         "speedLimit": 0,
         "groupId": ""
       },
-      "DW5DualTrx_S_cqnk": {
-        "style": "Standard",
-        "trackClass": "Mainline",
-        "startId": "Nsz4",
-        "endId": "DW5_duptraxN_yul2",
-        "priority": 0,
-        "speedLimit": 0,
-        "groupId": "s2"
-      },
+      "DW5DualTrx_S_cqnk": null,
       "DW5DualTrx_S_pqlj": {
         "style": "Standard",
         "trackClass": "Branch",
@@ -19371,6 +19416,61 @@
         "priority": 0,
         "speedLimit": 0,
         "groupId": ""
+      },
+      "SCustom_3xte": null,
+      "SDW5DTBryLoop_kcwy": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "Ncc4",
+        "endId": "NDW5DTBryLoop_mzrh",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": "DTBrysonLoop"
+      },
+      "SDW5DTBryLoop_van8": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "Nsz4",
+        "endId": "NDW5DTBryLoop_8u83",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5DTBryLoop_kf7x": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5DTBryLoop_8u83",
+        "endId": "DW5_duptraxN_yul2",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5DTBryLoop_6pyo": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5DTBryLoop_8u83",
+        "endId": "NDW5DTBryLoop_2e36",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": "DTBrysonLoop"
+      },
+      "SDW5DTBryLoop_2s8x": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5DTBryLoop_2e36",
+        "endId": "NDW5DTBryLoop_29bq",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": "DTBrysonLoop"
+      },
+      "SDW5DTBryLoop_z5li": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5DTBryLoop_29bq",
+        "endId": "NDW5DTBryLoop_mzrh",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": "DTBrysonLoop"
       }
     },
     "spans": {}

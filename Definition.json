@@ -2,7 +2,7 @@
     "manifestVersion": 5,
     "id": "DW5.DualTracksMod",
     "name": "DWFiv3's Dual Tracks",
-    "version": "202408.17.1146",
+    "version": "202408.17.1256",
     "updateUrl": "https://raw.githubusercontent.com/DWFiv3/DWFiv3DualTracks/main/update/update.json",
     "requires": [
         {
@@ -19,6 +19,7 @@
             "file(DW5DualTracks.json)",
             "file(DW5Splineys.json)",
             "file(DW5Spans.json)"
-        ]
+        ],
+    "progressions": "file(progressions.json)"
     }
 }
