@@ -2,6 +2,11 @@
 	"Releases": [
 		{
 			"Id": "DW5DualTracksMod",
+			"Version": "202408.18.1250",
+			"DownloadUrl": "https://github.com/DWFiv3/DWFiv3DualTracks/releases/download/v202408.18.1250/DWFiv3DualTracks.202408.18.1250-UMM.zip"
+		},
+		{
+			"Id": "DW5DualTracksMod",
 			"Version": "202408.17.1256",
 			"DownloadUrl": "https://github.com/DWFiv3/DWFiv3DualTracks/releases/download/v202408.17.1256/DWFiv3DualTracks.202408.17.1256-UMM.zip"
 		},
@@ -27,5 +32,3 @@
 		}
 	]
 }
-
-

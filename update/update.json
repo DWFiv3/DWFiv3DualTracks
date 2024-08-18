@@ -1,7 +1,11 @@
 {
     "DW5.DualTracksMod": {
-        "version": "202408.17.1256",
+        "version": "202408.18.1250",
         "changelog": [
+            {
+                "version": "202408.18.1250",
+                "desc": "- Fixes an issue with Bridges / Telegraph Poles not working correctly if conflicting with other mods"
+            },  
             {
                 "version": "202408.17.1256",
                 "desc": "- Added optional Bryson Loop back towards Ela  ($1 milestone unlock)"

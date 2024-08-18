@@ -1,6 +1,6 @@
 {
   "splineys": {
-    "Telegraph_Poles": {
+    "DW5_DualTracks_Telegraph_Poles": {
       "handler": "AlinasMapMod.TelegraphPoleMover",
       "polesToMove": [
         159,
