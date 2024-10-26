@@ -165,8 +165,12 @@
         [5, 0, -1],
         [0, 5, 0],
         [0, 5, 0],
-        [ 0, 3.5, 0 ],
-        [ 0, 3.5, 0 ]
+        [0, 3.5, 0],
+        [0, 3.5, 0],
+        [0, 5, -10],
+        [0, 7, -10],
+        [0, 6, -10],
+        [0, 5, -10]
       ]
     },
     "Dyls_Bridge_1": {
@@ -197,7 +201,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "Cowee_Bridge_1": {
@@ -228,7 +232,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "Ela_Bridge_1": {
@@ -259,40 +263,10 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
-    "Bryson_Bridge_1": {
-      "meshBuilder": "StrangeCustoms.AutoTrestle",
-      "points": [
-        {
-          "position": {
-            "x": 4228.75,
-            "y": 530.10,
-            "z": 5021.50
-          },
-          "rotation": {
-            "x": 358.80,
-            "y": 209.85,
-            "z": 0
-          }
-        },
-        {
-          "position": {
-            "x": 4169.82,
-            "y": 531.20,
-            "z": 4952.02
-          },
-          "rotation": {
-            "x": 359.30,
-            "y": 228.53,
-            "z": 0
-          }
-        }
-      ],
-      "headStyle": "block",
-      "tailStyle": "bent"
-    },
+
     "Bryson_Bridge_2": {
       "meshBuilder": "StrangeCustoms.AutoTrestle",
       "points": [
@@ -321,7 +295,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "Bryson_Bridge_3": {
@@ -352,41 +326,10 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
-    "Bryson_Bridge_4": {
-      "meshBuilder": "StrangeCustoms.AutoTrestle",
-      "points": [
-        {
-          "position": {
-            "x": 3937.51,
-            "y": 536.20,
-            "z": 4676.30
-          },
-          "rotation": {
-            "x": 359.20,
-            "y": 207.13,
-            "z": 0
-          }
-        },
-        {
-          "position": {
-            "x": 3696.84,
-            "y": 546.19,
-            "z": 4135.32
-          },
-          "rotation": {
-            "x": 1.48,
-            "y": 20.92,
-            "z": 0
-          }
-        }
-      ],
-      "headStyle": "block",
-      "tailStyle": "bent"
-    },
-     "Bryson_Bridge_5": {
+    "Bryson_Bridge_5": {
       "meshBuilder": "StrangeCustoms.AutoTrestle",
       "points": [
         {
@@ -414,40 +357,9 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
-"Hemingway_Bridge_1": {
-    "meshBuilder": "StrangeCustoms.AutoTrestle",
-    "points": [
-      {
-        "position": {
-          "x": 2944.05,
-          "y": 572.10,
-          "z": 3441.03
-        },
-        "rotation": {
-          "x": 359.00,
-          "y": 206.53,
-          "z": 0
-        }
-      },
-      {
-        "position": {
-          "x": 2844.02,
-          "y": 577.90,
-          "z": 3179.90
-        },
-        "rotation": {
-          "x": 359,
-          "y": 199.53,
-          "z": 0
-        }
-      }
-    ],
-    "headStyle": "block",
-    "tailStyle": "bent"
-  },
     "Brooks_Bridge_1": {
       "meshBuilder": "StrangeCustoms.AutoTrestle",
       "points": [
@@ -476,7 +388,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "Brooks_Bridge_2": {
@@ -507,7 +419,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "Almond_Bridge_1": {
@@ -538,7 +450,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "Andrews_Bridge_1": {
@@ -569,7 +481,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "Andrews_Bridge_2": {
@@ -600,7 +512,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "Andrews_Bridge_3": {
@@ -631,7 +543,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "Andrews_Bridge_4": {
@@ -662,7 +574,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "BIG Alarka Exit Bridge ": {
@@ -693,7 +605,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "Alarka Bridge 0": {
@@ -724,7 +636,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "Cochran Bridge 1": {
@@ -755,7 +667,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "Cochran Bridge 2": {
@@ -786,7 +698,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "Cochran Bridge 3": {
@@ -817,7 +729,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "Cochran Bridge 4": {
@@ -848,7 +760,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "Alarka Bridge 1": {
@@ -879,7 +791,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "Alarka Bridge 2": {
@@ -910,7 +822,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "Alarka Jct Bridge 1": {
@@ -941,7 +853,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "South Graham Bridge": {
@@ -972,7 +884,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "Hewitt Bridge": {
@@ -1003,7 +915,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "South Nan Bridge 1": {
@@ -1034,7 +946,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "Rhodo Bridge 1": {
@@ -1065,7 +977,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "South Rhodo Bridge 1": {
@@ -1096,7 +1008,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "South Rhodo Bridge 2": {
@@ -1127,7 +1039,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "South Rhodo Bridge 3": {
@@ -1158,7 +1070,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     },
     "South Rhodo Bridge 4": {
@@ -1189,7 +1101,7 @@
           }
         }
       ],
-      "headStyle": "block",
+      "headStyle": "bent",
       "tailStyle": "bent"
     }
   }

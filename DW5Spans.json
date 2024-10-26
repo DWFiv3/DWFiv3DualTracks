@@ -91,7 +91,7 @@
                 "end": "End"
             },
             "lower": {
-                "segmentId": "DW5DTraxS_woz3",
+                "segmentId": "S6kr",
                 "distance": 15.5183554,
                 "end": "Start"
             }
@@ -118,6 +118,42 @@
                 "segmentId": "DW5DualTrx_S_8dku",
                 "distance": 1,
                 "end": "Start"
+            }
+        },
+        "P7no": {
+            "upper": {
+                "segmentId": "Ss85",
+                "distance": 24.1554623,
+                "end": "End"
+            },
+            "lower": {
+                "segmentId": "S6kr",
+                "distance": 0,
+                "end": "Start"
+            }
+        },
+        "P8wk": {
+            "upper": {
+                "segmentId": "S3y8",
+                "distance": 0,
+                "end": "Start"
+            },
+            "lower": {
+                "segmentId": "S3y8",
+                "distance": 0,
+                "end": "End"
+            }
+        },
+        "Pevc": {
+            "upper": {
+              "segmentId": "SDW5DTX_qvxc",
+              "distance": 13.1844187,
+              "end": "Start"
+            },
+            "lower": {
+              "segmentId": "Svpx",
+              "distance": 3.55169725,
+              "end": "Start"
             }
         }
     }
