@@ -4,6 +4,10 @@
     "name": "DWFiv3's Dual Tracks",
     "version": "202410.13.1414",
     "updateUrl": "https://raw.githubusercontent.com/DWFiv3/DWFiv3DualTracks/main/update/update.json",
+    "conflictsWith": [
+        "DW5.DualTracksMod",
+        "DW5.DualTracks"
+    ],
     "requires": [
         {
             "id": "railloader",
