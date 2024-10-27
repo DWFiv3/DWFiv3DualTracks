@@ -1,7 +1,11 @@
 {
     "DW5.DualTracksMod": {
-        "version": "202408.18.1250",
+        "version": "202410.27.1053",
         "changelog": [
+            {
+                "version": "202410.27.1053",
+                "desc": "- Dual Track now follows progress unlock, Fixed for Experimental, rebranded, umm dumped, misc tweaks"
+            },  
             {
                 "version": "202408.18.1250",
                 "desc": "- Fixes an issue with Bridges / Telegraph Poles not working correctly if conflicting with other mods"
