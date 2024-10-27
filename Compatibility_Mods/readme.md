@@ -2,4 +2,4 @@ This Repository contains a collection of mods I have made to make other mods wor
 
 Pick the one you want, download it and install via Railloader
 
-To download, right click and "save file as"
+To download, right click and "save link as"
