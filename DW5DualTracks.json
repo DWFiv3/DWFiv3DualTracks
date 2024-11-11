@@ -307,8 +307,8 @@
         "flipSwitchStand": true
       },
       "NTomVWittier_ev7i": {
-        "position": { "x": 13473.166, "y": 562.0268, "z": 4275.816 },
-        "rotation": { "x": 359.841278, "y": 94.63289, "z": 0 },
+        "position": { "x": 13493.1016, "y": 562.0822, "z": 4274.20068 },
+        "rotation": { "x": 359.841278, "y": 94.63289, "z": 0.0 },
         "flipSwitchStand": true
       },
       "NTomVWittier_gsxi": {
@@ -2197,9 +2197,9 @@
         "flipSwitchStand": false
       },
       "DW5_duptraxN_xrcq": {
-        "position": { "x": 13473.6367, "y": 562.0226, "z": 4285.354 },
-        "rotation": { "x": 359.841278, "y": 94.63289, "z": 0 },
-        "flipSwitchStand": false
+        "position": { "x": 13493.5723, "y": 562.078, "z": 4283.739 },
+        "rotation": { "x": 359.841278, "y": 94.63289, "z": 0.0 },
+        "flipSwitchStand": true
       },
       "DW5_duptraxN_avqm": {
         "position": { "x": 22280.45, "y": 603.2, "z": -1460.585 },
@@ -2887,12 +2887,12 @@
         "flipSwitchStand": false
       },
       "DW5DualTrx_N_3epq": {
-        "position": { "x": 13682.1533, "y": 562.607544, "z": 4259.79053 },
+        "position": { "x": 13702.0869, "y": 562.663452, "z": 4258.17432 },
         "rotation": { "x": 359.839722, "y": 94.63441, "z": -1.23797672E-05 },
         "flipSwitchStand": false
       },
       "DW5DualTrx_N_locb": {
-        "position": { "x": 13683.02, "y": 562.607544, "z": 4268.383 },
+        "position": { "x": 13702.9531, "y": 562.663452, "z": 4266.7666 },
         "rotation": { "x": 359.839722, "y": 94.63441, "z": -1.23797672E-05 },
         "flipSwitchStand": true
       },
@@ -4574,9 +4574,9 @@
       "Sdg08": null,
       "Sj0r": null,
       "Sax3": null,
-      "SDW5SMR1_bun0": null,          
-      "SDW5SMR1_n5ha": null,  
-      "SDW5SMR1_cowo": null,      
+      "SDW5SMR1_bun0": null,
+      "SDW5SMR1_n5ha": null,
+      "SDW5SMR1_cowo": null,
       "DWFiv3_Required_NULL_Segments_DO-NOT-DELETE-ABOVE": null,
       "SSylvDils_Bridge48oq": {
         "style": "Bridge",

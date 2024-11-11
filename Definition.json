@@ -2,8 +2,8 @@
     "manifestVersion": 5,
     "id": "DWFiv3.DualTracks",
     "name": "DWFiv3's Dual Tracks",
-    "version": "202410.13.1414",
-    "updateUrl": "https://raw.githubusercontent.com/DWFiv3/DWFiv3DualTracks/main/update/update.json",
+    "version": "202411.11.1532",
+    "updateUrl": "https://raw.githubusercontent.com/DWFiv3/DWFiv3DualTracks/refs/heads/main/update/update.json",
     "conflictsWith": [
         "DW5.DualTracksMod",
         "DW5.DualTracks"
@@ -24,7 +24,7 @@
     ],
     "loadAfter": [
         {
-            "id": "DW5DWFiv3.WhittierSawMill"
+            "id": "DWFiv3.WhittierSawMill"
         }
     ],
     "mixintos": {
