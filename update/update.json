@@ -1,7 +1,11 @@
 {
     "DW5.DualTracksMod": {
-        "version": "202408.18.1250",
+        "version": "202411.11.1532",
         "changelog": [
+            {
+                "version": "202411.11.1532",
+                "desc": "- Fixes an issue with Griz1231 East Whittier Sugar Mill track not aligning correctly"
+            },  
             {
                 "version": "202408.18.1250",
                 "desc": "- Fixes an issue with Bridges / Telegraph Poles not working correctly if conflicting with other mods"
