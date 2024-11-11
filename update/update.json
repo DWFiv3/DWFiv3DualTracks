@@ -1,7 +1,11 @@
 {
     "DW5.DualTracksMod": {
-        "version": "202410.27.1053",
+        "version": "202411.11.1532",
         "changelog": [
+            {
+                "version": "202411.11.1532",
+                "desc": "- Fixes an issue with Griz1231 East Whittier Sugar Mill track not aligning correctly and Fixes the Updates button to work in the Railloader menu for Dual Tracks"
+            },  
             {
                 "version": "202410.27.1053",
                 "desc": "- Dual Track now follows progress unlock, Fixed for Experimental, rebranded, umm dumped, misc tweaks"
